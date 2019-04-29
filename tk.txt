@@ -1,0 +1,12 @@
+Tran_Vuong_Xuan@mfcgd.com
+Tran_Vuong_Xuan@manulife.com
+
+LAN ID : trnxvng
+
+Windows Logon: 
+  PASSWORD	 LobWex65
+
+Notes: 
+PASSWORD	Tran_Vuong_Xuan
+https://git.ap.manulife.com/scm/prpe/pos-product-engine-mut-service.git
+https://git.ap.manulife.com/scm/prpe/pos-product-engine-mut-service.git
